@@ -3,10 +3,6 @@ import sys
 import requests
 from datetime import date, timedelta
 
-print("Script starting...", flush=True)
-print(f"Python version: {sys.version}", flush=True)
-print(f"ASANA_TOKEN set: {'ASANA_TOKEN' in os.environ}", flush=True)
-
 # =============================================================================
 # CONFIGURATION — Edit this block when duplicating for a new task
 # =============================================================================
