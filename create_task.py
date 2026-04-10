@@ -7,7 +7,7 @@ from datetime import date, timedelta
 # CONFIGURATION — Edit this block when duplicating for a new task
 # =============================================================================
 
-TASK_NAME = "(End of day) Confirm all of tomorrow's customers have been texted with estimated delivery windows, as appropriate"
+TASK_NAME = "(End of day) Confirm all of tomorrow's customers have been texted with 4 hour (no tighter!) estimated delivery windows, as appropriate"
 
 ASSIGNEE = "bettyjo@piekarskitree.com"
 
